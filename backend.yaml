@@ -1,4 +1,4 @@
 spring:
   datasource:
     url: jdbc:postgresql://c.alerant-microsoft-meetup.postgres.database.azure.com:5432/citus?&sslmode=require
-    user: citus
+    username: citus
